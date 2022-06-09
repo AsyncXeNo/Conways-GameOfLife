@@ -28,3 +28,6 @@
 # Requirements
 - **Lua**
 - **LÖVE 2D**
+
+# Running the game
+Download the **GOL.love** file and run it using love.
