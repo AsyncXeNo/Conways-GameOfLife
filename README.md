@@ -1,4 +1,4 @@
-#Description
+# Description
 *This is my implementation of Conway's Game of Life, made using lua and LÖVE 2D.*
 
 **The rules are simple.**
@@ -8,7 +8,7 @@
 - **Dead cells with exactly three alive neighbors become alive.**
 - **All other cells die or remain dead.**
 
-#Controls
+# Controls
 
 | Key                | Action                                                              |
 |--------------------|---------------------------------------------------------------------|
