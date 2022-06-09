@@ -31,4 +31,4 @@
 
 # Running the game
 You can find an **exe** file in the releases.
-Alternatively, download the **GOL.love** file and run it using love.
+Download the **GOL.love** file and run it using love.
